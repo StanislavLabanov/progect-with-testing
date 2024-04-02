@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Элемент списка задач отображение задачи 1`] = `
+<DocumentFragment>
+  <li
+    class="item-wrapper"
+  >
+    <input
+      checked=""
+      data-testid="checkbox_item"
+      id="1"
+      type="checkbox"
+    />
+    <label
+      data-testid="label_item"
+      for="1"
+    >
+      <s>
+        купить хлеб
+      </s>
+    </label>
+    <button
+      class="button button-with-icon"
+      data-alt="Удалить"
+      data-testid="delete_button"
+    >
+      <img
+        alt="Удалить"
+        src="[object Object]"
+      />
+    </button>
+  </li>
+</DocumentFragment>
+`;
